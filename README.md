@@ -123,7 +123,7 @@ This project is governed by the WordPress license under the GNU General Public L
 ## Contact
 For questions or contributions, please reach out to:
 
-- Your Name: hazem3033993@gmail.com
+- Hazem Twair: hazem3033993@gmail.com
 
 - [Terradium-HT on GitHub](https://github.com/ht-wordpress/terradium-ht)
 
